@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://321coucou.tistory.com/)  [![Code Pen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/joowon0220) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.joowon@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-FF5722?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Job-Applications-6fdd1346cae449df9b8cae600c3623ea) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.hyo9134@gmail.com)
 <br><br><br>
 
 
