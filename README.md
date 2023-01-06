@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Joowon0220/weather) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
 <br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220)  [![MS SQL]
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/hyo9134)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/hyo9134)
 <br><br><br>
 
 ## 💫 m e 
