@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## ⚡ t e c h ⚡
 
 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/hyo9134) 
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md) 
 <br>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://github.com/hyo9134)
