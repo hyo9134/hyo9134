@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md) 
 <br>
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://github.com/hyo9134)
-[![Flutter](https://img.shields.io/badge/[Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/hyo9134)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md)
+[![Flutter](https://img.shields.io/badge/[Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md)
 <br>
 
-[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/hyo9134) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/hyo9134) 
+[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md) 
 <br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/hyo9134)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/hyo9134)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/hyo9134/hyo9134/blob/main/README.md)
 <br><br><br>
 
 ## 💫 m e 
