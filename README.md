@@ -1,5 +1,7 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyoeum&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyoeun&fontSize=70)
+### Hi 👋
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 <!--
 **hyo9134/hyo9134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
