@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://github.com/hyo9134)
-[![Flutter](https://img.shields.io/badge/[Flutter-02569B?style=flat-square&logo=[Flutter&logoColor=white)](https://github.com/hyo9134)
+[![Flutter](https://img.shields.io/badge/[Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/hyo9134)
 <br>
 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/hyo9134) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/hyo9134) 
